@@ -3,4 +3,4 @@ Understanding the Galois/Counter Mode of operation and performances comparison w
 
 C language using OpenSSL libraries
 
-Homework3 - Computer and Network Security course at a Sapienza university of Rome 
+Homework 3 - Computer and Network Security course at a Sapienza university of Rome 
